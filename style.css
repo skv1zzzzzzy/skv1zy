@@ -1,0 +1,90 @@
+.container{
+    margin-top: 40px;
+    margin-left: 35%;
+}
+.form-register{
+    width: 500px;
+    height: 395px;
+    color: white;
+    font-family: Roboto;
+    background-color: rgb(97, 147, 254);    
+}
+.header-regist{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 25px;
+}.text-box{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 25px;
+}
+.line{
+    width: 500px;
+    border-top:5px solid white;    
+    padding-left:10px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 0;
+}
+input{
+    border: 0;
+}
+.box-email{
+    width: 400px;
+    height: 25px;
+}
+.pass-block{
+    display: flex;
+    margin-top: 35px;
+    gap: 30px;
+}
+.password{
+    width: 185px;
+    height: 25px;
+}
+.password-confirm{
+    width: 185px;
+    height: 25px;
+}
+.send{
+    width: 92.5px;
+    height: 30px;
+    margin-top: 83px;
+    border: 0;
+    background-color: rgb(255, 230, 0);
+}
+.Entrance{
+    width: 92.5px;
+    height: 30px;
+    margin-top: 95px;
+    position: center;
+    border: 0;
+    background-color: rgb(255, 230, 0);
+}
+.login{
+    width: 188px;
+    height: 25px;
+    position: absolute;
+}
+.date{
+    width: 188px;
+    height: 27px;
+    margin-top: 0px;
+    float: right;
+}
+.textlink{
+    margin-left: 50.8%;
+    margin-top: -3.2%;
+    font-size: 16.5px;
+    font-family: Roboto;
+    position: absolute;
+    color: white;
+}
+.link{
+    margin-left: 60.6%;
+    margin-top: -2.8%;
+    font-size: 16.5px;
+    font-family: Roboto;
+    position: absolute;
+}

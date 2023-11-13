@@ -1,0 +1,54 @@
+.container{
+    margin-top: 40px;
+    margin-left: 35%;
+}
+.form-register{
+    width: 500px;
+    height: 238px;
+    color: white;
+    font-family: Roboto;
+    background-color: rgb(97, 147, 254);    
+}
+.header-entrance{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 25px;
+}.text-box{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 25px;
+}
+.line{
+    width: 500px;
+    border-top:5px solid white;    
+    padding-left:10px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 0;
+}
+input{
+    border: 0;
+}
+.box-login{
+    width: 185px;
+    height: 25px;
+}
+.pass-block{
+    display: flex;
+    margin-top: -45.4px;
+    margin-left: 115%;
+    gap: 30px;
+}
+.password{
+    width: 185px;
+    height: 25px;
+    
+}
+.log{
+    width: 92.5px;
+    height: 30px;
+    margin-top: 16px;
+    border: 0;
+    background-color: rgb(255, 230, 0);
+}
